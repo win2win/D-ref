@@ -158,6 +158,7 @@ contract Crowdsale is Pausable {
     uint public totalRefunded; // Total amount of Eth refunded       
     uint public dollarPerEtherRatio; // dollar to ether ratio set at the beginning of main sale
     BonusToken public bonusToken;  //Bonus token contradct reference 
+    uint public test;
     
 
     mapping(address => Backer) public backers; // contributors list
