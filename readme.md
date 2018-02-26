@@ -4,7 +4,7 @@
 
 ### What is this repository for? 
 
-* Auditchain/AUDT ICO contract
+* D-REF ICO contract
 * ver 1.0
 * for crowdfunding during the pre and ICO phases
 
