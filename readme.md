@@ -6,7 +6,7 @@
 
 * D-REF ICO contract
 * ver 1.0
-* for crowdfunding during the pre and ICO phases
+* for crowdfunding during the pre and ICO phases.
 
 
 ### How do I get set up?  
